@@ -1,17 +1,13 @@
 ---
-title: "myWizard - Real-time interactive data visualization tool"
+title: "myWizard - interactive data visualization tool"
 date: 2019-03-01T14:10:27+01:00
 weight: 5
-description: "NIKU is a clingy and attention-seeking robot companion who tracks down and headbutts human feet non-stop."
+description: "Tech Consulting Work Experience @ Accenture"
 
 categories: ["Splunk", "SQL", "Data Visualization", "Front-end", "Agiie", "A/B Testing"]
 featuredImage: "/images/splunk/splunk.jpg"
 ---
 myWizard is an interactive, real-time data visualisation tool to automate and monitor supply chain IT operation.
-{{< admonition note "About this project" >}}
-Tech Consulting Work Experience @ Accenture
-{{< /admonition >}}
-
 ## Intro
 
 The selected work is a collection of 10+ interactive live data visualization dashboards from Accenture's myWizards AIOps package. The interactive dashboards improve the transparency and efficiency of the supply chain IT operations at Coles Supermarket Australia. It is made with Splunk Processing Language and custom frontend codes.

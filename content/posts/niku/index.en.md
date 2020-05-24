@@ -2,15 +2,12 @@
 title: "NIKU - The Clingy Bot"
 weight: 5
 date: 2019-10-01T17:55:28+08:00
-description: "NIKU is a clingy and attention-seeking robot companion who tracks down and headbutts human feet non-stop."
+description: "3-week Physical Computing Project @idecourse"
 
 categories: ["Physical Computing", "Arduino", "Prototyping"]
 featuredImage: "/images/niku/gizmo-1.jpg"
 ---
 NIKU is a clingy and attention-seeking robot companion who tracks down and headbutts human feet non-stop.
-{{< admonition note "About this project" >}}
-3-week Physical Computing Project @idecourse
-{{< /admonition >}}
 
 
 ## Intro
