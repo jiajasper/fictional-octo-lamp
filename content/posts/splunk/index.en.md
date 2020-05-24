@@ -5,11 +5,13 @@ weight: 5
 description: "Tech Consulting Work Experience @ Accenture"
 
 categories: ["Splunk", "SQL", "Data Visualization", "Front-end", "Agiie", "A/B Testing"]
-featuredImage: "/images/splunk/splunk.jpg"
+
 ---
+
+{{< youtube F8WXKCA5bhg >}}
 myWizard is an interactive, real-time data visualisation tool to automate and monitor supply chain IT operation.
 ## Intro
-
+![](/images/splunk/splunk.jpg )
 The selected work is a collection of 10+ interactive live data visualization dashboards from Accenture's myWizards AIOps package. The interactive dashboards improve the transparency and efficiency of the supply chain IT operations at Coles Supermarket Australia. It is made with Splunk Processing Language and custom frontend codes.
 
 *Please keep in mind that I am not allowed to show this project in greater details, the graphical materials are mostly renders based off the working prototypes.
@@ -82,9 +84,7 @@ To give the users the options to filter, drill-down and direct to their internal
 
 ## Impacts
 
-{{< youtube F8WXKCA5bhg >}}
 
-We slowly started the deployment of our dashboards for client to use and test at the same time. The reviews from them were positive and we made significant impacts to their daily workflow:
 
 ✓ Successfully freed the clients from doing repetitive data consolidating work on a daily basis
 
@@ -93,5 +93,3 @@ We slowly started the deployment of our dashboards for client to use and test at
 ✓ Improved the transparency between IT and business operation by live feeding information that was not available or was only available to IT team
 
 ✓ Since the dashboards were developed with maintainability in mind,the codes were easily modified into a versatile template for future projects
-
-Hard work eventually paid off! The dashboards we developed were included in a bigger application package and the whole project was a huge success!
