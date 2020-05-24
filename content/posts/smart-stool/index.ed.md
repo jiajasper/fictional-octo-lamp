@@ -1,22 +1,18 @@
 ---
-title: "IoT Stool VR"
+title: "VR controller stool"
 weight: 5
 date: 2020-04-01T17:55:28+08:00
 description: "3-week Furniture Design Solo Project @idecourse"
 
 categories: ["Virtual Reality", "Unreal Engine", "Blender 3D", "C++", "Prototyping"]
-featuredImage: "/images/superform/superform.gif" 
+
 ---
-
-"What if our furnitures could replace our conventional peripheral devices to control electronics in the living space?" 
-
- Let's simulate this smart furniture experience in an immersive VR environment!
-
-## The VR Stool
+"What if our furnitures could replace our conventional controllers to interact with VR content?" 
 
 ![](/images/superform/george-prototype.gif "Instead of the conventional VR controllers, the users use the VR stool to interact with the VR environment!")
 
-This keycap shaped stool would function as the VR controller (aka the peripheral) for the users to interact with the VR environment.
+
+## The VR Stool
 
 The form of the VR stool draws inspriration from keycaps and the semiotics of this shape invites the users to try to interact with the stool. The keycap shape is created by stretching and tying a piece of lycra over the internals of the stool.
 
@@ -26,9 +22,10 @@ The form of the VR stool draws inspriration from keycaps and the semiotics of th
 ## Interaction + Demo
 
 ![](/images/superform/interaction.jpg "Select objects by gazing in VR and trigger function by pressing down the buttons in the stool")
-![](/images/superform/superform-1.gif "A short 3D animation to demo the interaction concept - two keys represent the two buttons hidden in the stool")
+![](/images/superform/demo-3.gif "User can also use his/her butt to trigger the buttons")
 ![](/images/superform/demo-1.gif "Demo: Turning Playstation on/off")
 ![](/images/superform/demo-2.gif "Demo: Turning fan and computer on/off")
+
 
 ## VR Level Design + Unreal Blueprints
 
