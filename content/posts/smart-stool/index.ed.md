@@ -23,8 +23,8 @@ The form of the VR stool draws inspriration from keycaps and the semiotics of th
 
 ![](/images/superform/interaction.jpg "Select objects by gazing in VR and trigger function by pressing down the buttons in the stool")
 ![](/images/superform/demo-3.gif "User can also use his/her butt to trigger the buttons")
-![](/images/superform/demo-1.gif "Demo: Turning Playstation on/off")
-![](/images/superform/demo-2.gif "Demo: Turning fan and computer on/off")
+![](/images/superform/demo-1.gif "Demo: Grooving to the radio and turing the fan on/off")
+![](/images/superform/demo-2.gif "Demo: Turning PC and Playstation on/off")
 
 
 ## VR Level Design + Unreal Blueprints
