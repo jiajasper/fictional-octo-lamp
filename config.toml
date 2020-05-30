@@ -1,6 +1,6 @@
 baseurl = "http://jiajasper.github.io"
 languageCode = "en-us"
-title = "Jasper x Jia"
+title = "Jasper Jia"
 theme = "mediumish-gohugo-theme"
 
 enableEmoji = true
@@ -31,6 +31,7 @@ paginate = 18
     weight = 100
     identifier = "project"
     url = "/project"
+    
 [[menu.main]]
     name = "Bio"
     identifier = "about"

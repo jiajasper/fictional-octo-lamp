@@ -1,7 +1,7 @@
 ---
 title: NIKU
-image: "/images/project/niku/gizmo-1.jpg"
-date: 2019-03-01
+image: "/images/niku/gizmo-1.jpg"
+date: 2019-10-01
 summary: "3-week Physical Computing Project @idecourse"
 
 ---

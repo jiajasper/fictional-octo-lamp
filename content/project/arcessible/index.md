@@ -1,12 +1,14 @@
 ---
-title: "ARcessible - inclusive AR user experience design "
+title: "ARcessible  "
 weight: 100
 date: 2020-05-01T17:55:28+08:00
-summary: "4-week Self-initiated Solo Project @idecourse"
+summary: "4-week Self-initiated Project on inclusive AR user experience design"
 
 categories: ["Augmented Reality", "WebXR","Aframe", "AR.js", "javascript", "Prototyping"]
 ---
 This is an exploration project on making AR experience more accessible to the Vision Impaired People (VIP).
+
+![](/images/arcessible/render.gif "")
 
 Through this project I learnt about inclusive design and picked up new skills such as developing AR content on Web with WebXR and AR.js (Aframe).
 
@@ -26,7 +28,7 @@ Working closely with VIP was also an invaluable experience where I learnt that d
 ### How do VIP use their iphones?
 
 ![](/images/arcessible/arthur-using-phone.gif "I observed and studied how VIP use their phones")
-The interaction can be summerized into three basic gestures: tap, double-tap and swipe.
+The interaction can be summerized into audio instruction and three basic gestures: tap, double-tap and swipe.
 ![](/images/arcessible/arcessible_6.png "")
 
 
@@ -58,3 +60,5 @@ By implementing WebSpeech API and Vibration API into AR.js - I was able to achie
 ### Turning this interaction flow into a developer toolkit on WebXR platform
 ![](/images/arcessible/arcessible_11.png "The reason why I decided not to make an AR App specifically for VIP")
 ![](/images/arcessible/arcessible_12.png "")
+
+I am currently working on perfecting the conponenet and plan to release this conponent on github for others to use when developing Web AR content with AR.js framework- stay tuned!

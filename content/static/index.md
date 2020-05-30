@@ -1,5 +1,5 @@
 ---
-title: 
+title: Bio
 permalink: /about/
 ---
 ### Bio
