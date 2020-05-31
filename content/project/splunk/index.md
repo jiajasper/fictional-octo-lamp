@@ -2,7 +2,7 @@
 title:  "myWizard"
 image: "/images/splunk/splunk-1.jpg"
 date: 2019-03-09
-summary: "Tech Consulting Work Experience @ Accenture"
+summary: "6-month Tech Consulting Project @ Accenture"
 ---
 
 {{< youtube F8WXKCA5bhg >}}

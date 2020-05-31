@@ -2,7 +2,7 @@
 title: "ARcessible  "
 weight: 100
 date: 2020-05-01T17:55:28+08:00
-summary: "4-week Self-initiated Project on inclusive AR user experience design"
+summary: "4-week Self-initiated Project on inclusive AR user experience design @idecourse"
 
 categories: ["Augmented Reality", "WebXR","Aframe", "AR.js", "javascript", "Prototyping"]
 ---
